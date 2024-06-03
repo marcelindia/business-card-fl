@@ -1,6 +1,8 @@
 # my_card
 
-![demo.png](images%2Fdemo.png)
+<div style="text-align: center;">
+  <img src="images/demo.png" alt="demo of repo">
+</div>
 
 A new Flutter project.
 
